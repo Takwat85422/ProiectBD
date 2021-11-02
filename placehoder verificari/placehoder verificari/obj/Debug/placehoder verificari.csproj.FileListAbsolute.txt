@@ -1,9 +1,0 @@
-C:\Users\Alex\source\repos\placehoder verificari\placehoder verificari\bin\Debug\placehoder verificari.exe.config
-C:\Users\Alex\source\repos\placehoder verificari\placehoder verificari\bin\Debug\placehoder verificari.exe
-C:\Users\Alex\source\repos\placehoder verificari\placehoder verificari\bin\Debug\placehoder verificari.pdb
-C:\Users\Alex\source\repos\placehoder verificari\placehoder verificari\bin\Debug\BouncyCastle.Crypto.dll
-C:\Users\Alex\source\repos\placehoder verificari\placehoder verificari\obj\Debug\placehoder verificari.csproj.AssemblyReference.cache
-C:\Users\Alex\source\repos\placehoder verificari\placehoder verificari\obj\Debug\placehoder verificari.csproj.CoreCompileInputs.cache
-C:\Users\Alex\source\repos\placehoder verificari\placehoder verificari\obj\Debug\placehoder verificari.csproj.CopyComplete
-C:\Users\Alex\source\repos\placehoder verificari\placehoder verificari\obj\Debug\placehoder verificari.exe
-C:\Users\Alex\source\repos\placehoder verificari\placehoder verificari\obj\Debug\placehoder verificari.pdb
